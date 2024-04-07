@@ -1,0 +1,10 @@
+digraph "backend/include/backend/platforms" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_218415fef68cdefe3dbfb6940d1edfea {
+    graph [ bgcolor="#ddddee", pencolor="black", label="backend" fontname="Helvetica", fontsize="10", URL="dir_218415fef68cdefe3dbfb6940d1edfea.html"]
+  dir_d182d7fdf861a2f582aa0bff1af34ab1 [shape=box, label="platforms", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_d182d7fdf861a2f582aa0bff1af34ab1.html"];
+  }
+}

@@ -1,0 +1,16 @@
+digraph "backend/include/private" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_82f6cda779f4dc5a717ca23cf5791cda {
+    graph [ bgcolor="#ddddee", pencolor="black", label="include" fontname="Helvetica", fontsize="10", URL="dir_82f6cda779f4dc5a717ca23cf5791cda.html"]
+  dir_218415fef68cdefe3dbfb6940d1edfea [shape=box label="backend" color="red" URL="dir_218415fef68cdefe3dbfb6940d1edfea.html"];
+  subgraph clusterdir_b57f91c584b33434f5bb9d465afaae56 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_b57f91c584b33434f5bb9d465afaae56.html"];
+    dir_b57f91c584b33434f5bb9d465afaae56 [shape=plaintext label="private"];
+  dir_61853595256c135fef66bbc6cd9b76db [shape=box label="backend" fillcolor="white" style="filled" URL="dir_61853595256c135fef66bbc6cd9b76db.html"];
+  }
+  }
+  dir_61853595256c135fef66bbc6cd9b76db->dir_218415fef68cdefe3dbfb6940d1edfea [headlabel="10", labeldistance=1.5 headhref="dir_000005_000002.html"];
+}

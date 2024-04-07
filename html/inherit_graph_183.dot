@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="Renderer::FrameRateOptions",height=0.2,width=0.4,color="black",URL="$structfilament_1_1_renderer_1_1_frame_rate_options.html",tooltip="Use FrameRateOptions to set the desired frame rate and control how quickly the system reacts to GPU l..."];
+}

@@ -1,0 +1,27 @@
+var classfilament_1_1backend_1_1_vulkan_platform =
+[
+    [ "Customization", "structfilament_1_1backend_1_1_vulkan_platform_1_1_customization.html", "structfilament_1_1backend_1_1_vulkan_platform_1_1_customization" ],
+    [ "SwapChainBundle", "structfilament_1_1backend_1_1_vulkan_platform_1_1_swap_chain_bundle.html", "structfilament_1_1backend_1_1_vulkan_platform_1_1_swap_chain_bundle" ],
+    [ "VulkanSharedContext", "structfilament_1_1backend_1_1_vulkan_platform_1_1_vulkan_shared_context.html", "structfilament_1_1backend_1_1_vulkan_platform_1_1_vulkan_shared_context" ],
+    [ "SwapChainPtr", "classfilament_1_1backend_1_1_vulkan_platform.html#a17d70858ea761ad20017f5816f7e20c5", null ],
+    [ "VulkanPlatform", "classfilament_1_1backend_1_1_vulkan_platform.html#af34978081f94523bd7f91f6d27705539", null ],
+    [ "~VulkanPlatform", "classfilament_1_1backend_1_1_vulkan_platform.html#a2afaf1daa7519c4f91a84aab6df0b3bd", null ],
+    [ "acquire", "classfilament_1_1backend_1_1_vulkan_platform.html#ab1574d4818f7d26fde6a6eb1f2c76b9e", null ],
+    [ "createDriver", "classfilament_1_1backend_1_1_vulkan_platform.html#ae40fa1170f03273fc7497e98752a13e3", null ],
+    [ "createSwapChain", "classfilament_1_1backend_1_1_vulkan_platform.html#ad03d204bf99a7db9cbf97bb8920b880e", null ],
+    [ "destroy", "classfilament_1_1backend_1_1_vulkan_platform.html#a0bde590e746438935acd137e62ea8081", null ],
+    [ "getCustomization", "classfilament_1_1backend_1_1_vulkan_platform.html#a2dc3c2760751501b4bc8c812b08b49f6", null ],
+    [ "getDevice", "classfilament_1_1backend_1_1_vulkan_platform.html#a619e38233ea9024ec4f527a03f6d80b4", null ],
+    [ "getGraphicsQueue", "classfilament_1_1backend_1_1_vulkan_platform.html#a68c9f75c4e623741ce8a0c976cb69bbb", null ],
+    [ "getGraphicsQueueFamilyIndex", "classfilament_1_1backend_1_1_vulkan_platform.html#a41bd58d32aada147b8349fa0e4087e6a", null ],
+    [ "getGraphicsQueueIndex", "classfilament_1_1backend_1_1_vulkan_platform.html#aee5b098a22543fa70687a278d3ab12a1", null ],
+    [ "getInstance", "classfilament_1_1backend_1_1_vulkan_platform.html#a2bcb9975a04636635c943b8be8e13fa0", null ],
+    [ "getOSVersion", "classfilament_1_1backend_1_1_vulkan_platform.html#ace3806e1ca7588c0fa24a08473e28d03", null ],
+    [ "getPhysicalDevice", "classfilament_1_1backend_1_1_vulkan_platform.html#a4ad3302f144b59dada768a012f0732c5", null ],
+    [ "getSwapChainBundle", "classfilament_1_1backend_1_1_vulkan_platform.html#a26df47f95914ac4471a80be796a693c8", null ],
+    [ "hasResized", "classfilament_1_1backend_1_1_vulkan_platform.html#a203b8d047de8860071082f94f8ef241b", null ],
+    [ "present", "classfilament_1_1backend_1_1_vulkan_platform.html#ad342410af1b57053962192636602f7ca", null ],
+    [ "recreate", "classfilament_1_1backend_1_1_vulkan_platform.html#a1e41a7773b4abb1f9af58611ab21b309", null ],
+    [ "terminate", "classfilament_1_1backend_1_1_vulkan_platform.html#ae93488758054502fec41a77ba3abae42", null ],
+    [ "VulkanPlatformPrivate", "classfilament_1_1backend_1_1_vulkan_platform.html#a9b7932f3fa01d105048bc779e81a3f2e", null ]
+];

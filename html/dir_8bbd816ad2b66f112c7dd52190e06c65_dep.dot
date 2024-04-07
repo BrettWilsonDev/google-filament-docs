@@ -1,0 +1,19 @@
+digraph "/mnt/c/Users/Brett/Downloads/filament-main/libs/filamat/include" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_7b7510293a65e62eca2b128315ca6850 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="filamat" fontname="Helvetica", fontsize="10", URL="dir_7b7510293a65e62eca2b128315ca6850.html"]
+  subgraph clusterdir_8bbd816ad2b66f112c7dd52190e06c65 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_8bbd816ad2b66f112c7dd52190e06c65.html"];
+    dir_8bbd816ad2b66f112c7dd52190e06c65 [shape=plaintext label="include"];
+  dir_9bb462f32000d34424442f636d9d4b1b [shape=box label="filamat" fillcolor="white" style="filled" URL="dir_9bb462f32000d34424442f636d9d4b1b.html"];
+  }
+  }
+  dir_3468d8330a51b6672fe2fb2c65bfa7cb [shape=box label="filabridge" color="red" URL="dir_3468d8330a51b6672fe2fb2c65bfa7cb.html"];
+  dir_b75f6151ef6a93f2161d807e94486478 [shape=box label="backend" color="red" URL="dir_b75f6151ef6a93f2161d807e94486478.html"];
+  dir_3468d8330a51b6672fe2fb2c65bfa7cb->dir_b75f6151ef6a93f2161d807e94486478 [headlabel="6", labeldistance=1.5 headhref="dir_000009_000000.html"];
+  dir_9bb462f32000d34424442f636d9d4b1b->dir_3468d8330a51b6672fe2fb2c65bfa7cb [headlabel="1", labeldistance=1.5 headhref="dir_000016_000009.html"];
+  dir_9bb462f32000d34424442f636d9d4b1b->dir_b75f6151ef6a93f2161d807e94486478 [headlabel="1", labeldistance=1.5 headhref="dir_000016_000000.html"];
+}

@@ -1,0 +1,23 @@
+digraph "/mnt/c/Users/Brett/Downloads/filament-main/libs" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_6719ab1f1f7655efc2fa43f7eb574fd1 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_6719ab1f1f7655efc2fa43f7eb574fd1.html"];
+    dir_6719ab1f1f7655efc2fa43f7eb574fd1 [shape=plaintext label="libs"];
+  dir_3468d8330a51b6672fe2fb2c65bfa7cb [shape=box label="filabridge" fillcolor="white" style="filled" color="red" URL="dir_3468d8330a51b6672fe2fb2c65bfa7cb.html"];
+  dir_7b7510293a65e62eca2b128315ca6850 [shape=box label="filamat" fillcolor="white" style="filled" color="red" URL="dir_7b7510293a65e62eca2b128315ca6850.html"];
+  dir_0586e661193aaccd7a31c549513f56cf [shape=box label="geometry" fillcolor="white" style="filled" color="red" URL="dir_0586e661193aaccd7a31c549513f56cf.html"];
+  dir_9671f44cd1ebcf62031d3936f08e1c1a [shape=box label="gltfio" fillcolor="white" style="filled" color="red" URL="dir_9671f44cd1ebcf62031d3936f08e1c1a.html"];
+  dir_536c271ae5a55ac6615492af81b56ab0 [shape=box label="utils" fillcolor="white" style="filled" color="red" URL="dir_536c271ae5a55ac6615492af81b56ab0.html"];
+  }
+  dir_b75f6151ef6a93f2161d807e94486478 [shape=box label="backend" color="red" URL="dir_b75f6151ef6a93f2161d807e94486478.html"];
+  dir_d4b795e252646cd117f7840c9c1c1acb [shape=box label="include" color="red" URL="dir_d4b795e252646cd117f7840c9c1c1acb.html"];
+  dir_d4b795e252646cd117f7840c9c1c1acb->dir_3468d8330a51b6672fe2fb2c65bfa7cb [headlabel="4", labeldistance=1.5 headhref="dir_000006_000009.html"];
+  dir_d4b795e252646cd117f7840c9c1c1acb->dir_b75f6151ef6a93f2161d807e94486478 [headlabel="19", labeldistance=1.5 headhref="dir_000006_000000.html"];
+  dir_3468d8330a51b6672fe2fb2c65bfa7cb->dir_b75f6151ef6a93f2161d807e94486478 [headlabel="6", labeldistance=1.5 headhref="dir_000009_000000.html"];
+  dir_7b7510293a65e62eca2b128315ca6850->dir_3468d8330a51b6672fe2fb2c65bfa7cb [headlabel="1", labeldistance=1.5 headhref="dir_000014_000009.html"];
+  dir_7b7510293a65e62eca2b128315ca6850->dir_b75f6151ef6a93f2161d807e94486478 [headlabel="1", labeldistance=1.5 headhref="dir_000014_000000.html"];
+  dir_9671f44cd1ebcf62031d3936f08e1c1a->dir_d4b795e252646cd117f7840c9c1c1acb [headlabel="4", labeldistance=1.5 headhref="dir_000020_000006.html"];
+}

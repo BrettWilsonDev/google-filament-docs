@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="StructureOfArraysBase\l\< Allocator, Elements\l \>::BuildElementIndices\l\< N, Indices \>",height=0.2,width=0.4,color="black",URL="$structutils_1_1_structure_of_arrays_base_1_1_build_element_indices.html",tooltip=" "];
+}

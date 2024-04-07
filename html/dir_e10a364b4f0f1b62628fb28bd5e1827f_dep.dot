@@ -1,0 +1,16 @@
+digraph "/mnt/c/Users/Brett/Downloads/filament-main/libs/gltfio/include" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_9671f44cd1ebcf62031d3936f08e1c1a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="gltfio" fontname="Helvetica", fontsize="10", URL="dir_9671f44cd1ebcf62031d3936f08e1c1a.html"]
+  subgraph clusterdir_e10a364b4f0f1b62628fb28bd5e1827f {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_e10a364b4f0f1b62628fb28bd5e1827f.html"];
+    dir_e10a364b4f0f1b62628fb28bd5e1827f [shape=plaintext label="include"];
+  dir_ee9082ca332d0b9986589862f10a8674 [shape=box label="gltfio" fillcolor="white" style="filled" URL="dir_ee9082ca332d0b9986589862f10a8674.html"];
+  }
+  }
+  dir_d4b795e252646cd117f7840c9c1c1acb [shape=box label="include" color="red" URL="dir_d4b795e252646cd117f7840c9c1c1acb.html"];
+  dir_ee9082ca332d0b9986589862f10a8674->dir_d4b795e252646cd117f7840c9c1c1acb [headlabel="4", labeldistance=1.5 headhref="dir_000022_000006.html"];
+}

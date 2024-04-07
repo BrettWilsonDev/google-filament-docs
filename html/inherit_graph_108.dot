@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="LightManager",height=0.2,width=0.4,color="black",URL="$classfilament_1_1_light_manager.html",tooltip="LightManager allows to create a light source in the scene, such as a sun or street lights."];
+}

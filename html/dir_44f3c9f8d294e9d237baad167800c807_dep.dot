@@ -1,0 +1,14 @@
+digraph "/mnt/c/Users/Brett/Downloads/filament-main/libs/filabridge/include/private/filament" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_73945cb8ba417227c81656dd39f63bae {
+    graph [ bgcolor="#ddddee", pencolor="black", label="private" fontname="Helvetica", fontsize="10", URL="dir_73945cb8ba417227c81656dd39f63bae.html"]
+  dir_44f3c9f8d294e9d237baad167800c807 [shape=box, label="filament", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_44f3c9f8d294e9d237baad167800c807.html"];
+  }
+  dir_94e3eff0c98d1ca56ac08ab860823db9 [shape=box label="filament" URL="dir_94e3eff0c98d1ca56ac08ab860823db9.html"];
+  dir_b75f6151ef6a93f2161d807e94486478 [shape=box label="backend" color="red" URL="dir_b75f6151ef6a93f2161d807e94486478.html"];
+  dir_44f3c9f8d294e9d237baad167800c807->dir_94e3eff0c98d1ca56ac08ab860823db9 [headlabel="1", labeldistance=1.5 headhref="dir_000013_000011.html"];
+  dir_44f3c9f8d294e9d237baad167800c807->dir_b75f6151ef6a93f2161d807e94486478 [headlabel="6", labeldistance=1.5 headhref="dir_000013_000000.html"];
+}

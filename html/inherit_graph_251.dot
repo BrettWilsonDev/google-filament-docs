@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="Transcoder::Config",height=0.2,width=0.4,color="black",URL="$structfilament_1_1geometry_1_1_transcoder_1_1_config.html",tooltip="Describes the format of all input data that get passed to this transcoder object."];
+}

@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="Primaries",height=0.2,width=0.4,color="black",URL="$structfilament_1_1color_1_1_primaries.html",tooltip="Holds the chromaticities of a color space's primaries as xy coordinates in xyY (Y is assumed to be 1)..."];
+}

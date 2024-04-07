@@ -1,0 +1,26 @@
+var classutils_1_1_profiler_1_1_counters =
+[
+    [ "getBranchHitRate", "classutils_1_1_profiler_1_1_counters.html#ac5f1d0c1ca3bf82de94db820a826e376", null ],
+    [ "getBranchInstructions", "classutils_1_1_profiler_1_1_counters.html#aa5ff626683e97d34303727db442d8a23", null ],
+    [ "getBranchMisses", "classutils_1_1_profiler_1_1_counters.html#a71e3adb0ee27cf512f62b5130d40cee6", null ],
+    [ "getBranchMissRate", "classutils_1_1_profiler_1_1_counters.html#a18e1b412afdf98cfc81fd8f9b11844d9", null ],
+    [ "getCPI", "classutils_1_1_profiler_1_1_counters.html#a417414278be1c4aaaac087a6dfff05ec", null ],
+    [ "getCpuCycles", "classutils_1_1_profiler_1_1_counters.html#a670b4eda802cc944c6d2f2551fa750cc", null ],
+    [ "getInstructions", "classutils_1_1_profiler_1_1_counters.html#acbd2cdc31b0f2aa9d4999b69e1cdc1ff", null ],
+    [ "getIPC", "classutils_1_1_profiler_1_1_counters.html#ae8d74c834781299b3398fc74ec4bbc15", null ],
+    [ "getL1DHitRate", "classutils_1_1_profiler_1_1_counters.html#a0bad75bf47290226d9538dd1fd75d928", null ],
+    [ "getL1DMisses", "classutils_1_1_profiler_1_1_counters.html#a6d5ec301d97e85e3cc8ea27f9f3a7c8e", null ],
+    [ "getL1DMissRate", "classutils_1_1_profiler_1_1_counters.html#a506464bd7535836ea5230fe3ccbef2f6", null ],
+    [ "getL1DReferences", "classutils_1_1_profiler_1_1_counters.html#a0b30681c34c3a7c6dc6d3aa2e9d53e8b", null ],
+    [ "getL1IHitRate", "classutils_1_1_profiler_1_1_counters.html#afc047fd2726ed9ea265c566f7e982254", null ],
+    [ "getL1IMisses", "classutils_1_1_profiler_1_1_counters.html#a8f9a6b8271e6e71fbcf24ea256f8ad4f", null ],
+    [ "getL1IMissRate", "classutils_1_1_profiler_1_1_counters.html#a9494abed7e4ed8ea3185e590e2328765", null ],
+    [ "getL1IReferences", "classutils_1_1_profiler_1_1_counters.html#a48f6b02a828e7905c54f0a2b7630e359", null ],
+    [ "getMPKI", "classutils_1_1_profiler_1_1_counters.html#ab120bdfed6d30b5e5bd387d47fca3304", null ],
+    [ "getRunningTime", "classutils_1_1_profiler_1_1_counters.html#a6e827d7f1d61d5c62e7f43f7c19ddc4c", null ],
+    [ "getWallTime", "classutils_1_1_profiler_1_1_counters.html#af8f1a562dcfb41d0bac565d8f9a2f998", null ],
+    [ "operator-", "classutils_1_1_profiler_1_1_counters.html#a3567b60655a9bf2b83ab47fdb79281db", null ],
+    [ "Profiler", "classutils_1_1_profiler_1_1_counters.html#ad73e5645d5b7b84a00d4a5d07b8d8078", null ],
+    [ "id", "classutils_1_1_profiler_1_1_counters.html#a7e290573ef1be67b92a2c745e3b00d1d", null ],
+    [ "value", "classutils_1_1_profiler_1_1_counters.html#a4e630859cc0e2a22bd6acf39a6a8e218", null ]
+];
